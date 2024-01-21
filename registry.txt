@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/StoJ57/well-tempered-clavier/main/album.yaml
+https://raw.githubusercontent.com/StoJ57/bach-organ-paf/main/album.yaml
