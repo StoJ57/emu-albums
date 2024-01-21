@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/StoJ57/well-tempered-clavier/main/album.yaml
