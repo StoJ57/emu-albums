@@ -1,4 +1,5 @@
 https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-1/main/album.yaml
+https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/album.yaml
 https://raw.githubusercontent.com/StoJ57/bach-organ-paf/main/album.yaml
 https://raw.githubusercontent.com/StoJ57/bach-mass-i/main/album.yaml
 https://raw.githubusercontent.com/StoJ57/bach-mass-ii/main/album.yaml
