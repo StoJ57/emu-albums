@@ -9,3 +9,4 @@ https://raw.githubusercontent.com/StoJ57/bach-mass-ii/main/album.yaml
 https://raw.githubusercontent.com/StoJ57/bach-mass-iii/main/album.yaml
 https://raw.githubusercontent.com/StoJ57/bach-mass-iv/main/album.yaml
 https://raw.githubusercontent.com/StoJ57/bach-mass/main/album.yaml
+https://d2zivaosjfev4e.cloudfront.net/goldberg-variations/album.yaml
