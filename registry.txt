@@ -3,10 +3,10 @@ https://d2zivaosjfev4e.cloudfront.net/bach/well-tempered-clavier-2/album.yaml
 https://d2zivaosjfev4e.cloudfront.net/bach/organ-paf/album.yaml
 https://d2zivaosjfev4e.cloudfront.net/bach/organ-taf/album.yaml
 https://d2zivaosjfev4e.cloudfront.net/bach/organ-faf/album.yaml
-https://d2zivaosjfev4e.cloudfront.net/bach/organ/slbum.yaml
+https://d2zivaosjfev4e.cloudfront.net/bach/organ/album.yaml
+https://d2zivaosjfev4e.cloudfront.net/bach/mass/album.yaml
 https://d2zivaosjfev4e.cloudfront.net/bach/mass-i/album.yaml
 https://d2zivaosjfev4e.cloudfront.net/bach/mass-ii/album.yaml
 https://d2zivaosjfev4e.cloudfront.net/bach/mass-iii/album.yaml
 https://d2zivaosjfev4e.cloudfront.net/bach/mass-iv/slbum.yaml
-https://d2zivaosjfev4e.cloudfront.net/bach/album.yaml
 https://d2zivaosjfev4e.cloudfront.net/bach/goldberg-variations/album.yaml
