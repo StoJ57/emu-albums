@@ -8,5 +8,5 @@ https://d2zivaosjfev4e.cloudfront.net/bach/mass/album.yaml
 https://d2zivaosjfev4e.cloudfront.net/bach/mass-i/album.yaml
 https://d2zivaosjfev4e.cloudfront.net/bach/mass-ii/album.yaml
 https://d2zivaosjfev4e.cloudfront.net/bach/mass-iii/album.yaml
-https://d2zivaosjfev4e.cloudfront.net/bach/mass-iv/slbum.yaml
+https://d2zivaosjfev4e.cloudfront.net/bach/mass-iv/album.yaml
 https://d2zivaosjfev4e.cloudfront.net/bach/goldberg-variations/album.yaml
